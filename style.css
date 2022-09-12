@@ -26,17 +26,17 @@ p {
     width: 8px;
   }
   
-  /* Track */
+  
   ::-webkit-scrollbar-track {
     background: #1b1b1b;
   }
   
-  /* Handle */
+  
   ::-webkit-scrollbar-thumb {
     background: rgb(36, 36, 36);
   }
   
-  /* Handle on hover */
+  
   ::-webkit-scrollbar-thumb:hover {
     background: rgb(59, 59, 59);
   }
